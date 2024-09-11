@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+    </header>
+
+    <main>
+        <ul>
+            <!-- {{municipality_render}} -->
+        {% for municipality in municipality_render|sort(attribute='name_cyrillic') %}
+            <li>
+                <a href="/obshtina/{{municipality.slug}}">
+                    {{municipality.type_cyrillic}} 
+                    {{municipality.name_cyrillic}} 
+                    (област {{municipality.province_cyrillic}})
+                </a>
+            </li>
+        {% endfor %}
+        </ul>
+    </main>
+
+    <footer>
+    </footer>
+</body>
+</html>

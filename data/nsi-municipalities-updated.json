@@ -1,0 +1,1580 @@
+[
+    {
+        "name_cyrillic": "Благоевград",
+        "slug": "blagoevgrad",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Банско",
+        "slug": "bansko",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Белица",
+        "slug": "belitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Гоце Делчев",
+        "slug": "goce-delchev",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Гърмен",
+        "slug": "garmen",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Кресна",
+        "slug": "kresna",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Петрич",
+        "slug": "petrich",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Разлог",
+        "slug": "razlog",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Сандански",
+        "slug": "sandanski",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Сатовча",
+        "slug": "satovcha",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Симитли",
+        "slug": "simitli",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Струмяни",
+        "slug": "strumiani",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Хаджидимово",
+        "slug": "khadzhidimovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Якоруда",
+        "slug": "yakoruda",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Благоевград"
+    },
+    {
+        "name_cyrillic": "Бургас",
+        "slug": "burgas",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Айтос",
+        "slug": "aitos",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Камено",
+        "slug": "kameno",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Карнобат",
+        "slug": "karnobat",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Малко Търново",
+        "slug": "malko-turnovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Несебър",
+        "slug": "nesebar",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Поморие",
+        "slug": "pomorie",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Приморско",
+        "slug": "primorsko",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Руен",
+        "slug": "ruen",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Созопол",
+        "slug": "sozopol",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Средец",
+        "slug": "sredets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Сунгурларе",
+        "slug": "sungurlare",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Царево",
+        "slug": "tsarevo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Бургас"
+    },
+    {
+        "name_cyrillic": "Варна",
+        "slug": "varna",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Аврен",
+        "slug": "avren",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Аксаково",
+        "slug": "aksakovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Белослав",
+        "slug": "beloslav",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Бяла",
+        "slug": "byala",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Ветрино",
+        "slug": "vetrino",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Вълчи дол",
+        "slug": "vulchi-dol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Девня",
+        "slug": "devnya",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Долни чифлик",
+        "slug": "dolni-chiflik",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Дългопол",
+        "slug": "dalgopol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Провадия",
+        "slug": "provadiya",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Суворово",
+        "slug": "suvorovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Варна"
+    },
+    {
+        "name_cyrillic": "Велико Търново",
+        "slug": "veliko-turnovo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Горна Оряховица",
+        "slug": "gorna-oryakhovitsa",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Елена",
+        "slug": "elena",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Златарица",
+        "slug": "zlataritsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Лясковец",
+        "slug": "lyaskovets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Павликени",
+        "slug": "pavlikeni",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Полски Тръмбеш",
+        "slug": "polski-trambesh",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Свищов",
+        "slug": "svishtov",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Стражица",
+        "slug": "strazhitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Сухиндол",
+        "slug": "sukhindol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Велико Търново"
+    },
+    {
+        "name_cyrillic": "Видин",
+        "slug": "vidin",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Белоградчик",
+        "slug": "belogradchik",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Бойница",
+        "slug": "boynitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Брегово",
+        "slug": "bregovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Грамада",
+        "slug": "gramada",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Димово",
+        "slug": "dimovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Кула",
+        "slug": "kula",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Макреш",
+        "slug": "makresh",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Ново село",
+        "slug": "novo-selo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Ружинци",
+        "slug": "ruzhintsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Чупрене",
+        "slug": "chuprene",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Видин"
+    },
+    {
+        "name_cyrillic": "Враца",
+        "slug": "vratsa",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Борован",
+        "slug": "borovan",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Бяла Слатина",
+        "slug": "byala-slatina",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Козлодуй",
+        "slug": "kozloduй",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Криводол",
+        "slug": "krivodol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Мездра",
+        "slug": "mezdra",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Мизия",
+        "slug": "miziya",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Оряхово",
+        "slug": "oryakhovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Роман",
+        "slug": "roman",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Хайредин",
+        "slug": "khayredin",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Враца"
+    },
+    {
+        "name_cyrillic": "Габрово",
+        "slug": "gabrovo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Габрово"
+    },
+    {
+        "name_cyrillic": "Дряново",
+        "slug": "dryanovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Габрово"
+    },
+    {
+        "name_cyrillic": "Севлиево",
+        "slug": "sevlievo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Габрово"
+    },
+    {
+        "name_cyrillic": "Трявна",
+        "slug": "tryavna",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Габрово"
+    },
+    {
+        "name_cyrillic": "Добрич",
+        "slug": "dobrich",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Балчик",
+        "slug": "balchik",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Генерал Тошево",
+        "slug": "general-toshevo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Каварна",
+        "slug": "kavarna",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Крушари",
+        "slug": "krushari",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Тервел",
+        "slug": "tervel",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Шабла",
+        "slug": "shabla",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Добрич"
+    },
+    {
+        "name_cyrillic": "Кърджали",
+        "slug": "kardzhali",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Ардино",
+        "slug": "ardino",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Джебел",
+        "slug": "dzhebel",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Кирково",
+        "slug": "kirakovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Крумовград",
+        "slug": "krumovgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Момчилград",
+        "slug": "momchilgrad",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Черноочене",
+        "slug": "chernoochene",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кърджали"
+    },
+    {
+        "name_cyrillic": "Кюстендил",
+        "slug": "kyustendil",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Бобов дол",
+        "slug": "bobov-dol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Бобошево",
+        "slug": "boboshevo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Дупница",
+        "slug": "dupnitsa",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Кочериново",
+        "slug": "kocherinovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Невестино",
+        "slug": "nevestino",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Рила",
+        "slug": "rila",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Сапарева баня",
+        "slug": "saparva-banya",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Трекляно",
+        "slug": "treklyano",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Кюстендил"
+    },
+    {
+        "name_cyrillic": "Ловеч",
+        "slug": "lovech",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Априлци",
+        "slug": "apriltsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Летница",
+        "slug": "letnitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Луковит",
+        "slug": "lukovit",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Тетевен",
+        "slug": "teteven",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Троян",
+        "slug": "troyan",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Угърчин",
+        "slug": "ugarchin",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Ябланица",
+        "slug": "yablannitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ловеч"
+    },
+    {
+        "name_cyrillic": "Монтана",
+        "slug": "montana",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Берковица",
+        "slug": "berkovitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Бойчиновци",
+        "slug": "boychinovtsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Брусарци",
+        "slug": "brusartsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Вълчедръм",
+        "slug": "vulchedrum",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Вършец",
+        "slug": "varshets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Георги Дамяново",
+        "slug": "georgi-damyanovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Лом",
+        "slug": "lom",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Медковец",
+        "slug": "medkovets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Чипровци",
+        "slug": "chiprovtsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Якимово",
+        "slug": "yakimovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Монтана"
+    },
+    {
+        "name_cyrillic": "Пазарджик",
+        "slug": "pazardzhik",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Батак",
+        "slug": "batak",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Белово",
+        "slug": "belovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Брацигово",
+        "slug": "bratsigovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Велинград",
+        "slug": "velingrad",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Лесичово",
+        "slug": "lesichovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Панагюрище",
+        "slug": "panagyurishte",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Пещера",
+        "slug": "peshtera",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Ракитово",
+        "slug": "rakitovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Септември",
+        "slug": "septemvri",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Стрелча",
+        "slug": "streltcha",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Сърница",
+        "slug": "sarnitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пазарджик"
+    },
+    {
+        "name_cyrillic": "Перник",
+        "slug": "pernik",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Брезник",
+        "slug": "breznik",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Земен",
+        "slug": "zemen",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Ковачевци",
+        "slug": "kovachevtsi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Радомир",
+        "slug": "radomir",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Трън",
+        "slug": "tran",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Перник"
+    },
+    {
+        "name_cyrillic": "Плевен",
+        "slug": "pleven",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Белене",
+        "slug": "belene",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Гулянци",
+        "slug": "gulyantsi",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Долна Митрополия",
+        "slug": "dolna-mitropoliya",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Долни Дъбник",
+        "slug": "dolni-dabnik",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Искър",
+        "slug": "iskar",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Кнежа",
+        "slug": "kneja",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Левски",
+        "slug": "levski",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Никопол",
+        "slug": "nikopol",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Пордим",
+        "slug": "pordim",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Червен бряг",
+        "slug": "cherven-bryag",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Плевен"
+    },
+    {
+        "name_cyrillic": "Пловдив",
+        "slug": "plovdiv",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Асеновград",
+        "slug": "asenovgrad",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Брезово",
+        "slug": "brezovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Калояново",
+        "slug": "kaloyanovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Карлово",
+        "slug": "karlovo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Кричим",
+        "slug": "krichim",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Куклен",
+        "slug": "kuklen",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Лъки",
+        "slug": "laki",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Марица",
+        "slug": "maritsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Перущица",
+        "slug": "perushtitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Първомай",
+        "slug": "parvomay",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Раковски",
+        "slug": "rakovski",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Родопи",
+        "slug": "rodopi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Садово",
+        "slug": "sadovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Сопот",
+        "slug": "sopot",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Стамболийски",
+        "slug": "stamboliyski",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Съединение",
+        "slug": "saedinenie",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Хисаря",
+        "slug": "hisyaria",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Пловдив"
+    },
+    {
+        "name_cyrillic": "Разград",
+        "slug": "razgrad",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Завет",
+        "slug": "zavet",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Исперих",
+        "slug": "isperikh",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Кубрат",
+        "slug": "kubrat",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Лозница",
+        "slug": "loznitsa",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Самуил",
+        "slug": "samuil",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Цар Калоян",
+        "slug": "tsar-kaloyan",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Разград"
+    },
+    {
+        "name_cyrillic": "Русе",
+        "slug": "ruse",
+        "type_cyrillic": "град",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Борово",
+        "slug": "borovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Ветово",
+        "slug": "vetovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Две могили",
+        "slug": "dve-mogili",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Иваново",
+        "slug": "ivanovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Сливо поле",
+        "slug": "slivo-pole",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Ценово",
+        "slug": "tsenovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Русе"
+    },
+    {
+        "name_cyrillic": "Силистра",
+        "slug": "silistra",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Алфатар",
+        "slug": "alfatar",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Главиница",
+        "slug": "glavinitza",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Дулово",
+        "slug": "dulovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Кайнарджа",
+        "slug": "kainardzha",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Ситово",
+        "slug": "sitovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Тутракан",
+        "slug": "tutrakan",
+        "type_cyrillic": "град",
+		"province_cyrillic": "Силистра"
+    },
+    {
+        "name_cyrillic": "Сливен",
+        "slug": "sliven",
+        "type_cyrillic": "град",
+		"province_cyrillic": "Сливен"
+    },
+    {
+        "name_cyrillic": "Котел",
+        "slug": "kotel",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Сливен"
+    },
+    {
+        "name_cyrillic": "Нова Загора",
+        "slug": "nova-zagora",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Сливен"
+    },
+    {
+        "name_cyrillic": "Твърдица",
+        "slug": "tvarditsa",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Сливен"
+    },
+    {
+        "name_cyrillic": "Смолян",
+        "slug": "smolyan",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Баните",
+        "slug": "banite",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Борино",
+        "slug": "borino",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Девин",
+        "slug": "devin",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Доспат",
+        "slug": "dospat",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Златоград",
+        "slug": "zlatograd",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Мадан",
+        "slug": "madan",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Неделино",
+        "slug": "nedelino",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Рудозем",
+        "slug": "rudozem",
+        "type_cyrillic": "село",
+		"province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "Чепеларе",
+        "slug": "chepelare",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Смолян"
+    },
+    {
+        "name_cyrillic": "София",
+        "slug": "sofia",
+        "type_cyrillic": "град",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Антон",
+        "slug": "anton",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Божурище",
+        "slug": "bozhurishte",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Ботевград",
+        "slug": "botevgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Годеч",
+        "slug": "godech",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Горна Малина",
+        "slug": "gorna-malina",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Долна баня",
+        "slug": "dolna-banya",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Драгоман",
+        "slug": "dragoman",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Елин Пелин",
+        "slug": "elin-pelin",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Етрополе",
+        "slug": "etropole",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Златица",
+        "slug": "zlartitsa",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Ихтиман",
+        "slug": "ikhtiman",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Копривщица",
+        "slug": "koprivshtitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Костенец",
+        "slug": "kostenets",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Костинброд",
+        "slug": "kostinbrod",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Мирково",
+        "slug": "mirkovo",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Пирдоп",
+        "slug": "pirdop",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Правец",
+        "slug": "pravets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Самоков",
+        "slug": "samokov",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Своге",
+        "slug": "svoge",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Сливница",
+        "slug": "slivnitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Чавдар",
+        "slug": "chavdar",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Челопеч",
+        "slug": "chelapech",
+        "type_cyrillic": "село",
+		"province_cyrillic": "София"
+    },
+    {
+        "name_cyrillic": "Стара Загора",
+        "slug": "stara-zagora",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Братя Даскалови",
+        "slug": "bratya-daskalovi",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Гурково",
+        "slug": "gurkovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Гълъбово",
+        "slug": "galabovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Казанлък",
+        "slug": "kazanlak",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Мъглиж",
+        "slug": "maglizh",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Николаево",
+        "slug": "nikolaevo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Опан",
+        "slug": "opan",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Павел баня",
+        "slug": "pavel-banya",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Раднево",
+        "slug": "radnevo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Чирпан",
+        "slug": "chirpan",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Стара Загора"
+    },
+    {
+        "name_cyrillic": "Търговище",
+        "slug": "targovishte",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Търговище"
+    },
+    {
+        "name_cyrillic": "Антоново",
+        "slug": "antonovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Търговище"
+    },
+    {
+        "name_cyrillic": "Омуртаг",
+        "slug": "omurtag",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Търговище"
+    },
+    {
+        "name_cyrillic": "Опака",
+        "slug": "opaka",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Търговище"
+    },
+    {
+        "name_cyrillic": "Попово",
+        "slug": "popovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Търговище"
+    },
+    {
+        "name_cyrillic": "Хасково",
+        "slug": "haskovo",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Димитровград",
+        "slug": "dimitrovgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Ивайловград",
+        "slug": "ivailovgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Любимец",
+        "slug": "lyubimets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Маджарово",
+        "slug": "madjarovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Минерални бани",
+        "slug": "mineralni-bani",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Свиленград",
+        "slug": "svilengrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Симеоновград",
+        "slug": "simeonovgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Стамболово",
+        "slug": "stambolovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Тополовград",
+        "slug": "topolovgrad",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Харманли",
+        "slug": "harmanli",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Хасково"
+    },
+    {
+        "name_cyrillic": "Шумен",
+        "slug": "shumen",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Велики Преслав",
+        "slug": "veliki-preslav",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Венец",
+        "slug": "venets",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Върбица",
+        "slug": "varbitsa",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Каолиново",
+        "slug": "kaolinovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Каспичан",
+        "slug": "kaspichan",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Никола Козлево",
+        "slug": "nikola-kozlevo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Нови пазар",
+        "slug": "novi-pazar",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Смядово",
+        "slug": "smyadovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Хитрино",
+        "slug": "hitrinо",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Шумен"
+    },
+    {
+        "name_cyrillic": "Ямбол",
+        "slug": "yambol",
+        "type_cyrillic": "град",
+        "province_cyrillic": "Ямбол"
+    },
+    {
+        "name_cyrillic": "Болярово",
+        "slug": "bolyarovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ямбол"
+    },
+    {
+        "name_cyrillic": "Елхово",
+        "slug": "elkhovo",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ямбол"
+    },
+    {
+        "name_cyrillic": "Стралджа",
+        "slug": "straldzha",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ямбол"
+    },
+    {
+        "name_cyrillic": "Тунджа",
+        "slug": "tundzha",
+        "type_cyrillic": "село",
+        "province_cyrillic": "Ямбол"
+    }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+    </header>
+
+    <main>
+        <h1>Община {{municipality['name_cyrillic']}}</h1>
+        <p>Община {{municipality['name_cyrillic']}}, разположена в {{municipality['province_cyrillic']}}, е част от административно-териториалното деление на Република България, което включва 28 области и 265 общини. По данни на Националния статистически институт, населението на общината към 2023 г. е {{municipality['total_population']}} души. През същата година в общината са регистрирани {{municipality['born_all']}} новородени. Механичният прираст за 2023 г. е {{municipality['total_relocation_growth']}} души. В административните граници на общината функционират {{municipality['school_count']}} училища, които обслужват нуждите на местното население.</p>
+        <ul>
+            <li>Изписване с латински букви: {{municipality['slug']}}</li>
+            <li>Община: {{municipality['name_cyrillic']}}</li>
+            <li>Статут на общината: {{municipality['type_cyrillic']}}</li>
+            <li>Област {{municipality['province_cyrillic']}}</li>
+            <li>Население общо: {{municipality['total_population']}}</li>
+            <li>Население мъже: {{municipality['male_population']}}</li>
+            <li>Население жени: {{municipality['female_population']}}</li>
+            <li>Родени през 2023 общо: {{municipality['born_all']}}</li>
+            <li>Родени през 2023 жени: {{municipality['born_females']}}</li>
+            <li>Родени през 2023 мъже: {{municipality['born_males']}}</li>
+            <li>Починали през 2023 общо: {{municipality['deaths_all']}}</li>
+            <li>Починали през 2023 жени: {{municipality['deaths_females']}}</li>
+            <li>Починали през 2023 мъже: {{municipality['deaths_males']}}</li>
+            <li>Население общо в градовете: {{municipality['total_population_cities']}}</li>
+            <li>Население мъже в градовете: {{municipality['male_population_cities']}}</li>
+            <li>Население жени в градовете: {{municipality['female_population_cities']}}</li>
+            <li>Население общо в селата: {{municipality['total_population_villages']}}</li>
+            <li>Население мъже в селата: {{municipality['male_population_villages']}}</li>
+            <li>Население жени в селата: {{municipality['female_population_villages']}}</li>
+            <li>Механично движение заселени общо: {{municipality['total_relocation_in']}}</li>
+            <li>Механично движение заселени мъже: {{municipality['male_relocation_in']}}</li>
+            <li>Механично движение заселени жени: {{municipality['female_relocation_in']}}</li>
+            <li>Механично движение изселени общо: {{municipality['total_relocation_out']}}</li>
+            <li>Механично движение изселени мъже: {{municipality['male_relocation_out']}}</li>
+            <li>Механично движение изселени жени: {{municipality['female_relocation_out']}}</li>
+            <li>Механично движение механичен прираст общо: {{municipality['total_relocation_growth']}}</li>
+            <li>Механично движение механичен прираст мъже: {{municipality['male_relocation_growth']}}</li>
+            <li>Механично движение механичен прираст жени: {{municipality['female_relocation_growth']}}</li>
+            <li>Самостоятелни детски градини: {{municipality['kd_count']}}</li>
+            <li>Деца общо: {{municipality['kd_total_children']}}</li>
+            <li>Деца в т.ч. момичета: {{municipality['kd_female_children']}}</li>
+            <li>Педагогически персонал общо: {{municipality['kd_total_personnel']}}</li>
+            <li>Педагогически персонал в т.ч. детски учители: {{municipality['kd_children_personnel']}}</li>
+            <li>Детски групи: {{municipality['kd_groups_count']}}</li>
+            <li>Училища: {{municipality['school_count']}}</li>
+            <li>Учители: {{municipality['school_teachers']}}</li>
+            <li>I - IV клас паралелки: {{municipality['school_14_classes']}}</li>
+            <li>I - IV клас учащи общо: {{municipality['school_14_students']}}</li>
+            <li>I - IV клас учащи в т.ч. жени: {{municipality['school_14_female_students']}}</li>
+            <li>V - VII клас паралелки: {{municipality['school_512_classes']}}</li>
+            <li>V - VII клас учащи общо: {{municipality['school_512_students']}}</li>
+            <li>V - VII клас учащи в т.ч. жени: {{municipality['school_512_female_students']}}</li>
+            <li>V - VII клас завършили основно образование: {{municipality['school_512_mid_graduated']}}</li>
+        </ul>
+    </main>
+
+    <footer>
+    </footer>
+</body>
+</html>
